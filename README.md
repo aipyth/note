@@ -1,6 +1,6 @@
 # Notenote.link
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7b37d412-1240-44dd-8539-a7001465b57a/deploy-status)](https://app.netlify.com/sites/notenotelink/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3374b0a1-b070-4096-a0bd-ae47b5994988/deploy-status)](https://app.netlify.com/sites/aipyth-notes/deploys)
 
 ## Update !
 
